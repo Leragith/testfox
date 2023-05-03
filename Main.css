@@ -3,7 +3,8 @@ body{
     padding: 0;
 }
 
-.background-image{
+.background-image
+{
     width: 720px;
     height: 512px;
     background-image: url('./assets/img/cave.png');
